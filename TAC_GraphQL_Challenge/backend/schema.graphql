@@ -1,0 +1,81 @@
+# Queries Definitions
+type Query {
+    ping: String!
+    roles: [Role!]!
+    users: [UserSummary!]!
+    categories: [CategorySummary!]
+    pages: [PageSummary!]
+    page(id: ID!): Page
+    development: String
+    assets: [Assets!]
+}
+
+# Data Structures
+type User {
+    id: ID!
+    username: String!
+    name: String!
+    email: String!
+    avatar: Int
+    
+    # Relations
+    role: Role!
+}
+
+type Role { 
+    id: ID!
+    name: String!
+}
+
+type Page {
+    id: ID!
+    title: String!
+    summary: String
+    content: String!
+    hasAttachment: Boolean!
+    createdAt: String!
+    flag: String
+    # Relations
+    categories: [Category!]
+    author: User!
+}
+
+type Category {
+    id: ID!
+    name: String!
+    # Relations
+    pages: [Page!]
+}
+
+type Assets { 
+    id: ID!
+    filename: String!
+    downloadLink: String
+    createdAt: String!
+    pageId: Int!
+}
+
+# Views
+type UserSummary {
+    id: ID!
+    name: String!
+    email: String!
+    role: Role!
+}
+
+type PageSummary {
+    id: ID!
+    title: String!
+    summary: String
+    categories: [Int]
+    createdAt: String!
+    author: UserSummary!
+    hasAttachment: Boolean!
+}
+
+type CategorySummary {
+    id: ID!
+    name: String!
+}
+
+# Inputs
