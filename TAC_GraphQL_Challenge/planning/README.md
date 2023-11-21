@@ -8,7 +8,7 @@ Trilha de desafios envolvendo exploração de falhas em uma API graphQL de uma a
 - Flag 2 -> TAC{69763c166cc0fcff891ceb609ccc0d550539272910c247a2ade9aeb1fec4737d}
 - Flag 3 -> TAC{454368a6cdfa4fa069627495d2da909f691de7398e04bd71879719c256aaf99a}
 - Flag 4 -> TAC{dd11af7b65881444c4611d5bd2d3e6972ab9be46b682bff71c5c2140b89a3d17}
-- ~~Flag 5 -> TAC{6a2e8e751076217efdacdbba739fef5fddcfa8d5c7a3c0e2c83baa16aacff09d}~~
+- Flag 5 -> TAC{6a2e8e751076217efdacdbba739fef5fddcfa8d5c7a3c0e2c83baa16aacff09d}
 
 
 ## Resumo dos Desafios (Ideia Inicial)
@@ -57,3 +57,5 @@ Trilha de desafios envolvendo exploração de falhas em uma API graphQL de uma a
 4. Ao analisar o link, o usuário deverá descobrir por tentativa e erro que o nome do arquivo foi substituido
    pelo seu hmac (i.e.: novo_filename = md5_hmace(filename) + '.ext', secretKey).
    - Ao descobrir tal padrão, o usuário conseguirá fazer o download do arquivo restante e conseguir a ultima flag.
+
+5. A quinta flag se encontra no mesmo documento, porém com seu texto em branco para se camuflar ao background do arquivo PDF.

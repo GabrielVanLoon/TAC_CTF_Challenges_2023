@@ -18,9 +18,9 @@
 const pages = [
   {
     "id": "1",
-    "title": "Employee Onboarding Guide",
-    "summary": "A comprehensive guide by HR Manager Benjamin Reynolds outlining the employee onboarding process, welcoming new hires to the company.",
-    "content": "\nEmployee Onboarding Guide:\n\n**Key Steps:**\n1. Welcome Message: A warm welcome to the new employee, introducing them to our company culture.\n2. Documentation: Completing necessary paperwork and providing required identification.\n3. Orientation: An overview of the company's history, values, and organizational structure.\n4. Team Introduction: Connecting new hires with their team members and key stakeholders.\n\nEnsuring a smooth onboarding experience for every new member of our team!\n",
+    "title": "Guia de Onboard de Funcionários",
+    "summary": "Um guia abrangente elaborado pelo Gerente de Recursos Humanos, Benjamin Reynolds, delineando o processo de integração de funcionários, dando as boas-vindas aos novos contratados na empresa.",
+    "content": "\nGuia de Integração de Funcionários:\n\n**Passos Chave:**\n1. Mensagem de Boas-Vindas: Uma calorosa recepção ao novo funcionário, apresentando-os à nossa cultura empresarial.\n2. Documentação: Preenchimento de documentos necessários e fornecimento de identificação exigida.\n3. Orientação: Uma visão geral da história da empresa, valores e estrutura organizacional.\n4. Apresentação da Equipe: Conectar novos contratados com os membros de suas equipes e principais interessados.\n\nGarantindo uma experiência de integração tranquila para cada novo membro de nossa equipe!\n",
     "hasAttachment": false,
     "createdAt": "2023-05-10T10:30:00Z",
     "categories": [
@@ -32,9 +32,9 @@ const pages = [
   
   {
     "id": "2",
-    "title": "Company Update - Q3 2023",
-    "summary": "An update from CEO Olivia Anderson highlighting key achievements, challenges, and strategic initiatives for the third quarter of 2023.",
-    "content": "\nCompany Update - Q3 2023:\n\n**Key Highlights:**\n1. Achieved 20% revenue growth compared to Q2 2023.\n2. Successful launch of new product features enhancing customer experience.\n3. Expansion into new markets driving increased brand visibility.\n4. Employee Recognition: Acknowledging outstanding contributions from teams across departments.\n\nA comprehensive overview of the company's progress and future goals!\n",
+    "title": "Atualização da Empresa - T3 2023",
+    "summary": "Uma atualização da Executiva Olivia Anderson destacando conquistas-chave, desafios e iniciativas estratégicas para o terceiro trimestre de 2023.",
+    "content": "\nAtualização da Empresa - T3 2023:\n\n**Principais Destaques:**\n1. Alcançado crescimento de receita de 20% em comparação com o T2 2023.\n2. Lançamento bem-sucedido de novas funcionalidades do produto aprimorando a experiência do cliente.\n3. Expansão para novos mercados impulsionando a visibilidade da marca.\n4. Reconhecimento dos Funcionários: Reconhecendo contribuições excepcionais de equipes em diversos departamentos.\n\nUma visão abrangente do progresso da empresa e metas futuras!\n",
     "hasAttachment": false,
     "createdAt": "2023-05-11T10:30:00Z",
     "categories": [
@@ -46,9 +46,9 @@ const pages = [
   
   {
     "id": "3",
-    "title": "Wiki Data Migration - Update from IT Chief Samuel Porter",
-    "summary": "IT Chief Samuel Porter shares important information about the ongoing migration of wiki data to the new system.",
-    "content": "\nWiki Data Migration - Update from IT Chief Samuel Porter:\n\n**Status Update:**\n1. **Ongoing Development:** The new system for wiki data migration is currently under development, and our IT team is actively working on its implementation.\n\n2. **Enhancements:** The new system aims to provide enhanced features and improved user experience, ensuring a more efficient and user-friendly platform for accessing wiki data.\n\n3. **Timeline:** While the development is in progress, we anticipate the migration process to begin in the coming weeks. A detailed timeline will be shared as we approach the launch date.\n\n4. **User Training:** To ensure a smooth transition, we will conduct training sessions for all users on the new system's functionalities.\n\nStay tuned for further updates, and feel free to reach out to our IT team if you have any specific questions or concerns.\n",
+    "title": "Migração de Dados da Wiki - Atualização do Chefe de TI Samuel Porter",
+    "summary": "O Chefe de TI Samuel Porter compartilha informações importantes sobre a migração contínua de dados da wiki para o novo sistema.",
+    "content": "\nMigração de Dados da Wiki - Atualização do Chefe de TI Samuel Porter:\n\n**Atualização de Status:**\n1. **Desenvolvimento em Andamento:** O novo sistema para a migração de dados da wiki está atualmente em desenvolvimento, e nossa equipe de TI está trabalhando ativamente em sua implementação.\n\n2. **Aprimoramentos:** O novo sistema visa fornecer recursos aprimorados e uma melhor experiência do usuário, garantindo uma plataforma mais eficiente e amigável para acessar dados da wiki.\n\n3. **Cronograma:** Enquanto o desenvolvimento está em andamento, antecipamos que o processo de migração começará nas próximas semanas. Um cronograma detalhado será compartilhado à medida que nos aproximamos da data de lançamento.\n\n4. **Treinamento de Usuários:** Para garantir uma transição tranquila, conduziremos sessões de treinamento para todos os usuários sobre as funcionalidades do novo sistema.\n\nFique atento para mais atualizações e sinta-se à vontade para entrar em contato com nossa equipe de TI se tiver alguma pergunta ou preocupação específica.\n",
     "hasAttachment": false,
     "createdAt": "2023-05-13T14:45:00Z",
     "categories": [
@@ -60,9 +60,9 @@ const pages = [
 
   {
     "id": "4",
-    "title": "Hardware Maintenance Guide",
-    "summary": "A comprehensive guide on maintaining hardware infrastructure for optimal performance.",
-    "content": "\nWelcome to the \"Hardware Maintenance Guide\"!\n\n**Essential Tasks:**\n1. Regular cleaning of hardware components.\n2. Checking and replacing faulty components.\n3. Updating firmware and drivers.\n4. Monitoring system temperatures and performance.\n\nEnsure the longevity and efficiency of our hardware infrastructure with these maintenance practices!\n",
+    "title": "Guia de Manutenção de Hardware",
+    "summary": "Um guia abrangente sobre a manutenção da infraestrutura de hardware para um desempenho ótimo.",
+    "content": "\nBem-vindo ao \"Guia de Manutenção de Hardware\"!\n\n**Tarefas Essenciais:**\n1. Limpeza regular dos componentes de hardware.\n2. Verificação e substituição de componentes defeituosos.\n3. Atualização de firmware e drivers.\n4. Monitoramento de temperaturas e desempenho do sistema.\n\nAssegure a longevidade e eficiência de nossa infraestrutura de hardware com essas práticas de manutenção!\n",
     "hasAttachment": false,
     "createdAt": "2023-05-13T15:00:00Z",
     "categories": [
@@ -74,9 +74,9 @@ const pages = [
 
   {
     "id": "5",
-    "title": "Intranet Access Training",
-    "summary": "A comprehensive guide on accessing and navigating the company's intranet systems.",
-    "content": "\nWelcome to the \"Intranet Access Training\" session!\n\nIn this training, you will learn how to access and navigate the company's intranet systems effectively. Follow the steps below to ensure a seamless experience.\n\n**Step 1: Login to Intranet**\n- Open your web browser and navigate to the company's intranet portal.\n- Use your corporate credentials to log in.\n\n**Step 2: Navigating the Intranet**\n- Explore the various sections and features available on the intranet.\n- Familiarize yourself with important links, announcements, and departmental pages.\n\n**Step 3: Accessing Documents and Resources**\n- Learn how to find and download documents and resources stored on the intranet.\n- Understand the organization of shared files and folders.\n\nCongratulations! You have successfully completed the Intranet Access Training. If you have any questions or encounter any issues, feel free to reach out to the IT support team.\n\nThank you for participating!\n",
+    "title": "Treinamento de Acesso à Intranet",
+    "summary": "Um guia abrangente sobre como acessar e navegar nos sistemas de intranet da empresa.",
+    "content": "\nBem-vindo à sessão de \"Treinamento de Acesso à Intranet\"!\n\nNeste treinamento, você aprenderá a acessar e navegar efetivamente nos sistemas de intranet da empresa. Siga as etapas abaixo para garantir uma experiência sem problemas.\n\n**Etapa 1: Login na Intranet**\n- Abra seu navegador da web e acesse o portal de intranet da empresa.\n- Use suas credenciais corporativas para fazer login.\n\n**Etapa 2: Navegação na Intranet**\n- Explore as várias seções e recursos disponíveis na intranet.\n- Familiarize-se com links importantes, anúncios e páginas departamentais.\n\n**Etapa 3: Acesso a Documentos e Recursos**\n- Aprenda como encontrar e baixar documentos e recursos armazenados na intranet.\n- Entenda a organização de arquivos e pastas compartilhadas.\n\nParabéns! Você concluiu com sucesso o Treinamento de Acesso à Intranet. Se tiver alguma dúvida ou encontrar algum problema, não hesite em entrar em contato com a equipe de suporte de TI.\n\nObrigado por participar!\n",
     "hasAttachment": false,
     "createdAt": "2023-05-15T10:30:00Z",
     "categories": [
@@ -88,9 +88,9 @@ const pages = [
 
   {
     "id": "6",
-    "title": "Strategic Vision for 2024 - Message to Employees",
-    "summary": "CEO Olivia Anderson shares the company's strategic vision for the upcoming year, outlining key focus areas and objectives.",
-    "content": "\nStrategic Vision for 2024 - Message to Employees:\n\n**Focus Areas:**\n1. Innovation: Encouraging a culture of continuous innovation and exploration.\n2. Employee Development: Investing in training and development programs to empower our workforce.\n3. Sustainability Initiatives: Integrating environmentally conscious practices into our operations.\n4. Client-Centric Approach: Strengthening relationships with clients through enhanced services and support.\n\nA call to action for all employees to contribute to the company's success in the coming year!\n",
+    "title": "Visão Estratégica para 2024 - Mensagem aos Funcionários",
+    "summary": "Olivia Anderson compartilha a visão estratégica da empresa para o próximo ano, delineando áreas-chave de foco e objetivos.",
+    "content": "\nVisão Estratégica para 2024 - Mensagem aos Funcionários:\n\n**Áreas de Foco:**\n1. Inovação: Incentivar uma cultura de inovação contínua e exploração.\n2. Desenvolvimento de Funcionários: Investir em programas de treinamento e desenvolvimento para capacitar nossa força de trabalho.\n3. Iniciativas de Sustentabilidade: Integrar práticas conscientes do meio ambiente em nossas operações.\n4. Abordagem Centrada no Cliente: Fortalecer relacionamentos com clientes por meio de serviços e suporte aprimorados.\n\nUm apelo à ação para todos os funcionários contribuírem para o sucesso da empresa no próximo ano!\n",
     "hasAttachment": false,
     "createdAt": "2023-05-17T13:45:00Z",
     "categories": [
@@ -102,9 +102,9 @@ const pages = [
 
   {
     "id": "7",
-    "title": "Server Rack Organization Tips",
-    "summary": "Guidelines for organizing server racks to maximize efficiency and accessibility.",
-    "content": "\nWelcome to the \"Server Rack Organization Tips\" page!\n\n**Key Strategies:**\n1. Proper cable management for easy identification and maintenance.\n2. Arranging servers based on usage and priority.\n3. Implementing proper cooling and airflow management.\n4. Labeling and documenting equipment for quick reference.\n\nOptimize our server racks for a more efficient and organized hardware setup!\n",
+    "title": "Dicas de Organização de Racks de Servidores",
+    "summary": "Diretrizes para organizar racks de servidores para maximizar eficiência e acessibilidade.",
+    "content": "\nBem-vindo à página \"Dicas de Organização de Racks de Servidores\"!\n\n**Estratégias Chave:**\n1. Gerenciamento adequado de cabos para fácil identificação e manutenção.\n2. Organização de servidores com base no uso e prioridade.\n3. Implementação de gerenciamento adequado de resfriamento e fluxo de ar.\n4. Rotulação e documentação de equipamentos para referência rápida.\n\nOtimize nossos racks de servidores para uma configuração de hardware mais eficiente e organizada!\n",
     "hasAttachment": false,
     "createdAt": "2023-05-21T10:30:00Z",
     "categories": [
@@ -116,9 +116,9 @@ const pages = [
 
   {
     "id": "8",
-    "title": "Prospect Meeting Notes - Green Energy Solutions",
-    "summary": "Detailed notes from a recent meeting with the prospect Green Energy Solutions, outlining potential collaborations.",
-    "content": "\nMeeting Notes - Green Energy Solutions:\n\n**Date:** 2023-06-12\n**Attendees:** Natalie Walker, Mark Thompson (Green Energy Solutions)\n**Discussion Points:**\n- Exploring renewable energy solutions for their projects.\n- Proposal for a joint webinar on sustainability in the industry.\n\nFollow up with Green Energy Solutions for further discussions!\n",
+    "title": "Notas da Reunião com Prospect - Green Energy Solutions",
+    "summary": "Notas detalhadas de uma reunião recente com o prospect Green Energy Solutions, delineando colaborações potenciais.",
+    "content": "\nNotas da Reunião - Green Energy Solutions:\n\n**Data:** 2023-06-12\n**Participantes:** Natalie Walker, Mark Thompson (Green Energy Solutions)\n**Pontos de Discussão:**\n- Exploração de soluções de energia renovável para seus projetos.\n- Proposta para um webinar conjunto sobre sustentabilidade na indústria.\n\nFaça o acompanhamento com a Green Energy Solutions para discussões adicionais!\n",
     "hasAttachment": false,
     "createdAt": "2023-05-21T15:15:00Z",
     "categories": [
@@ -130,9 +130,9 @@ const pages = [
 
   {
     "id": "9",
-    "title": "Employee Appreciation Day - Thank You Note",
-    "summary": "A heartfelt note from CEO Olivia Anderson expressing gratitude to all employees on Employee Appreciation Day.",
-    "content": "\nEmployee Appreciation Day - Thank You Note:\n\n**Message:**\nDear Team,\nI want to express my sincere gratitude to each of you for your dedication, hard work, and passion. Your contributions are the driving force behind our success, and I am truly thankful to have such a talented and committed team. Let's continue to achieve greatness together!\n\nWarm regards,\nOlivia Anderson\nCEO\n",
+    "title": "Dia de Apreciação ao Funcionário - Nota de Agradecimento",
+    "summary": "Uma nota sincera da Executiva Olivia Anderson expressando gratidão a todos os funcionários no Dia de Apreciação ao Funcionário.",
+    "content": "\nDia de Apreciação ao Funcionário - Nota de Agradecimento:\n\n**Mensagem:**\nCaro Time,\nQuero expressar minha sincera gratidão a cada um de vocês por sua dedicação, trabalho árduo e paixão. Suas contribuições são a força motriz por trás de nosso sucesso, e sou verdadeiramente grata por ter uma equipe tão talentosa e comprometida. Vamos continuar a alcançar a grandeza juntos!\n\nAtenciosamente,\nOlivia Anderson\nCEO\n",
     "hasAttachment": false,
     "createdAt": "2023-05-22T15:00:00Z",
     "categories": [
@@ -144,9 +144,9 @@ const pages = [
 
   {
     "id": "10",
-    "title": "Hardware Procurement Best Practices",
-    "summary": "Guidance on sourcing and procuring hardware components for the infrastructure.",
-    "content": "\nWelcome to the \"Hardware Procurement Best Practices\" page!\n\n**Effective Strategies:**\n1. Conducting thorough research on hardware specifications and vendors.\n2. Establishing partnerships with reliable suppliers.\n3. Considering future scalability and compatibility.\n4. Performing cost-benefit analysis for hardware investments.\n\nEnsure optimal performance by following best practices in hardware procurement!\n",
+    "title": "Melhores Práticas em Aquisição de Hardware",
+    "summary": "Orientações sobre como adquirir componentes de hardware para a infraestrutura.",
+    "content": "\nBem-vindo à página \"Melhores Práticas em Aquisição de Hardware\"!\n\n**Estratégias Eficazes:**\n1. Realização de pesquisas detalhadas sobre especificações de hardware e fornecedores.\n2. Estabelecimento de parcerias com fornecedores confiáveis.\n3. Consideração de escalabilidade e compatibilidade futuras.\n4. Realização de análise de custo-benefício para investimentos em hardware.\n\nGaranta um desempenho ideal seguindo as melhores práticas em aquisição de hardware!\n",
     "hasAttachment": false,
     "createdAt": "2023-05-25T12:15:00Z",
     "categories": [
@@ -159,9 +159,9 @@ const pages = [
 
   {
     "id": "11",
-    "title": "New Federal Project Announcement - Confidential Notice",
-    "summary": "CEO Olivia Anderson announces the commencement of a new federal project and emphasizes the critical need for confidentiality among all employees.",
-    "content": "\nNew Federal Project Announcement - Confidential Notice:\n\n**Announcement:**\nI am pleased to inform you that our company has secured a new federal project with significant strategic importance. This project represents a major milestone for our organization and opens new avenues for growth.\n\n**Confidentiality Notice:**\nGiven the sensitive nature of this project and the importance of maintaining a competitive edge, I must stress the utmost importance of keeping all project details confidential. This information should not be disclosed to anyone outside the company, including friends, family, or industry contacts.\n\n**Legal Implications:**\nDisclosures of confidential information could have legal ramifications and negatively impact our ability to deliver successfully. I trust each of you to uphold the company's values and protect the integrity of this project.\n\nThank you for your understanding and commitment to our continued success.\n\nWarm regards,\nOlivia Anderson\nCEO\n",
+    "title": "Novo Anúncio de Projeto Federal - Aviso Confidencial",
+    "summary": "A CEO Olivia Anderson anuncia o início de um novo projeto federal e enfatiza a necessidade crítica de confidencialidade entre todos os funcionários.",
+    "content": "\nNovo Anúncio de Projeto Federal - Aviso Confidencial:\n\n**Anúncio:**\nÉ com prazer que informo que nossa empresa conquistou um novo projeto federal com significativa importância estratégica. Este projeto representa um marco importante para nossa organização e abre novas oportunidades de crescimento.\n\n**Aviso de Confidencialidade:**\nDada a natureza sensível deste projeto e a importância de manter uma vantagem competitiva, enfatizo a extrema importância de manter todos os detalhes do projeto em sigilo. Essas informações não devem ser divulgadas a ninguém fora da empresa, incluindo amigos, familiares ou contatos da indústria.\n\n**Implicações Legais:**\nDivulgações de informações confidenciais podem ter implicações legais e impactar negativamente nossa capacidade de entrega bem-sucedida. Confio em cada um de vocês para manter os valores da empresa e proteger a integridade deste projeto.\n\nObrigada pela compreensão e comprometimento com nosso sucesso contínuo.\n\nAtenciosamente,\nOlivia Anderson\nCEO\n",
     "hasAttachment": false,
     "createdAt": "2023-05-30T09:30:00Z",
     "categories": [
@@ -172,9 +172,9 @@ const pages = [
 
   {
     "id": "12",
-    "title": "Customer Testimonial - Global Innovations Ltd.",
-    "summary": "A testimonial from the customer Global Innovations Ltd., expressing satisfaction with our services.",
-    "content": "\nCustomer Testimonial:\n\n**Company:** Global Innovations Ltd.\n**Testimonial:**\n\"Working with Natalie and the team has been a game-changer for our business. Their solutions have significantly improved our operational efficiency. We highly recommend their services.\"\n\nThank you, Global Innovations Ltd., for your trust and partnership!\n",
+    "title": "Depoimento do Cliente - Global Innovations Ltd.",
+    "summary": "Um depoimento do cliente Global Innovations Ltd., expressando satisfação com nossos serviços.",
+    "content": "\nDepoimento do Cliente:\n\n**Empresa:** Global Innovations Ltd.\n**Depoimento:**\n\"Trabalhar com Natalie e a equipe foi um divisor de águas para o nosso negócio. Suas soluções melhoraram significativamente nossa eficiência operacional. Recomendamos altamente seus serviços.\"\n\nObrigado, Global Innovations Ltd., pela confiança e parceria!\n",
     "hasAttachment": false,
     "createdAt": "2023-06-03T11:30:00Z",
     "categories": [
@@ -186,9 +186,9 @@ const pages = [
 
   {
     "id": "13",
-    "title": "Unofficial Notes - Federal Organization Sale",
-    "summary": "Informal notes regarding a successful sale to a non-named federal organization.",
-    "content": "\nUnofficial Notes - Federal Organization Sale:\n\n**Date:** 2023-06-20\n**Details:**\n- Successfully closed a deal with a federal organization for software solutions.\n- Due to confidentiality, the organization's name is not disclosed in official records.\n- Key points discussed include cybersecurity features, scalability, and compliance.\n- Anticipated project kick-off in Q3 2023.\n\nCelebrating the success of this significant federal organization partnership!\n",
+    "title": "Notas Não Oficiais - Venda para Organização Federal Não Nomeada",
+    "summary": "Notas informais sobre uma venda bem-sucedida para uma organização federal não nomeada.",
+    "content": "\nNotas Não Oficiais - Venda para Organização Federal:\n\n**Data:** 2023-06-20\n**Detalhes:**\n- Fechamento bem-sucedido de um acordo com uma organização federal para soluções de software.\n- Devido à confidencialidade, o nome da organização não é divulgado nos registros oficiais.\n- Pontos-chave discutidos incluem recursos de cibersegurança, escalabilidade e monitoramento.\n- Previsão de início do projeto no T3 2023.\n\nCelebrando o sucesso desta significativa parceria com uma organização federal!\n",
     "hasAttachment": false,
     "createdAt": "2023-06-03T14:45:00Z",
     "categories": [
@@ -200,9 +200,9 @@ const pages = [
 
   {
     "id": "14",
-    "title": "Performance Review Process",
-    "summary": "HR Manager Benjamin Reynolds explains the company's performance review process, providing guidance for employees and managers.",
-    "content": "\nPerformance Review Process:\n\n**Overview:**\n1. Goal Setting: Collaborative goal-setting between employees and managers at the beginning of the performance cycle.\n2. Continuous Feedback: Encouraging ongoing feedback and communication throughout the year.\n3. Evaluation Criteria: Assessing performance based on established criteria and key performance indicators.\n4. Development Plans: Identifying areas for improvement and creating personalized development plans.\n\nFostering a culture of continuous improvement through our performance review process!\n",
+    "title": "Processo de Avaliação de Desempenho",
+    "summary": "O Gerente de Recursos Humanos Benjamin Reynolds explica o processo de avaliação de desempenho da empresa, fornecendo orientação para funcionários e gestores.",
+    "content": "\nProcesso de Avaliação de Desempenho:\n\n**Visão Geral:**\n1. Definição de Metas: Definição colaborativa de metas entre funcionários e gestores no início do ciclo de desempenho.\n2. Feedback Contínuo: Estímulo ao feedback contínuo e comunicação ao longo do ano.\n3. Critérios de Avaliação: Avaliação de desempenho com base em critérios estabelecidos e indicadores-chave de desempenho.\n4. Planos de Desenvolvimento: Identificação de áreas para melhoria e criação de planos de desenvolvimento personalizados.\n\nFomentando uma cultura de melhoria contínua por meio de nosso processo de avaliação de desempenho!\n",
     "hasAttachment": false,
     "createdAt": "2023-06-10T13:45:00Z",
     "categories": [
@@ -214,9 +214,9 @@ const pages = [
 
   {
     "id": "15",
-    "title": "CI/CD Best Practices",
-    "summary": "Exploring best practices for Continuous Integration and Continuous Deployment in our development workflow.",
-    "content": "\nWelcome to the \"CI/CD Best Practices\" session!\n\nIn this session, we will explore the best practices for Continuous Integration (CI) and Continuous Deployment (CD) in our development workflow. Follow the guidelines below to enhance our development processes.\n\n**Understanding CI/CD**\n- Gain a clear understanding of what Continuous Integration and Continuous Deployment entail.\n- Learn how these practices contribute to efficient and reliable software development.\n\n**Setting Up Automated Builds**\n- Explore the setup of automated builds to streamline the integration process.\n- Use tools such as Jenkins or GitLab CI to automate the build process.\n\n**Implementing Automated Testing**\n- Understand the importance of automated testing in the CI/CD pipeline.\n- Explore different types of automated tests and how they fit into the development lifecycle.\n\n**Ensuring Code Quality**\n- Learn how to maintain code quality through code reviews and static code analysis.\n- Understand the role of code quality in successful CI/CD implementation.\n\n**Deployment Strategies**\n- Explore various deployment strategies, including blue-green deployments and canary releases.\n- Understand how to minimize downtime during deployment.\n\nCongratulations! You have completed the CI/CD Best Practices session. If you have any questions or need further clarification, feel free to reach out to the development team.\n\nThank you for your commitment to best development practices!\n",
+    "title": "Melhores Práticas de CI/CD",
+    "summary": "Explorando as melhores práticas para Integração Contínua e Deploy Contínuo em nosso fluxo de desenvolvimento.",
+    "content": "\nBem-vindo à sessão \"Melhores Práticas de CI/CD\"!\n\nNesta sessão, exploraremos as melhores práticas para Integração Contínua (CI) e Deploy Contínuo (CD) em nosso fluxo de desenvolvimento. Siga as diretrizes abaixo para aprimorar nossos processos de desenvolvimento.\n\n**Compreendendo CI/CD**\n- Tenha uma compreensão clara do que envolve Integração Contínua e Deploy Contínuo.\n- Aprenda como essas práticas contribuem para um desenvolvimento de software eficiente e confiável.\n\n**Configurando Builds Automatizadas**\n- Explore a configuração de builds automatizadas para otimizar o processo de integração.\n- Utilize ferramentas como Jenkins ou GitLab CI para automatizar o processo de build.\n\n**Implementando Testes Automatizados**\n- Compreenda a importância dos testes automatizados no pipeline CI/CD.\n- Explore diferentes tipos de testes automatizados e como eles se encaixam no ciclo de desenvolvimento.\n\n**Garantindo a Qualidade do Código**\n- Aprenda a manter a qualidade do código por meio de revisões de código e análise estática.\n- Compreenda o papel da qualidade do código na implementação bem-sucedida de CI/CD.\n\n**Estratégias de Deploy**\n- Explore várias estratégias de deploy, incluindo implementações blue-green e lançamentos canários.\n- Compreenda como minimizar o tempo de inatividade durante o deploy.\n\nParabéns! Você concluiu a sessão de Melhores Práticas de CI/CD. Se tiver alguma dúvida ou precisar de esclarecimentos adicionais, sinta-se à vontade para entrar em contato com a equipe de desenvolvimento.\n\nObrigada pelo seu compromisso com as melhores práticas de desenvolvimento!\n",
     "hasAttachment": false,
     "createdAt": "2023-06-25T14:45:00Z",
     "categories": [
@@ -229,9 +229,9 @@ const pages = [
 
   {
     "id": "16",
-    "title": "Delivery Status Report - Federal Organization Sale",
-    "summary": "A detailed report on the current status of the delivery for the software solutions sold to the non-named federal organization.",
-    "content": "\nDelivery Status Report - Federal Organization Sale:\n\n**Date:** 2023-07-05\n**Key Metrics:**\n- Project progress: On schedule\n- Key features implemented: Cybersecurity enhancements, scalability measures.\n- Team collaboration: Strong cross-functional collaboration.\n- Anticipated delivery completion: Q4 2023.\n\nMonitoring the delivery status to ensure successful implementation for our federal organization client!\n",
+    "title": "Relatório de Status de Entrega - Venda para Organização Federal",
+    "summary": "Um relatório detalhado sobre o status atual da entrega das soluções de software vendidas para a organização federal não nomeada.",
+    "content": "\nRelatório de Status de Entrega - Venda para Organização Federal:\n\n**Data:** 2023-07-05\n**Métricas Principais:**\n- Progresso do projeto: No prazo\n- Principais funcionalidades implementadas: Aprimoramentos em cibersegurança, medidas de monitoramento.\n- Colaboração da equipe: Forte colaboração interfuncional.\n- Previsão de conclusão da entrega: T4 2023.\n\nMonitorando o status de entrega para garantir uma implementação bem-sucedida para nosso cliente federal!\n",
     "hasAttachment": false,
     "createdAt": "2023-07-25T09:15:00Z",
     "categories": [
@@ -243,9 +243,9 @@ const pages = [
 
   {
     "id": "17",
-    "title": "PII Data Gathering Best Practices",
-    "summary": "Guidelines for gathering Personally Identifiable Information (PII) data while adhering to privacy and compliance standards.",
-    "content": "\nPII Data Gathering Best Practices:\n\n**Key Guidelines:**\n1. Obtain explicit consent from individuals before collecting any PII data.\n2. Implement secure and encrypted channels for data transmission.\n3. Limit the collection of unnecessary PII and only gather essential information.\n4. Regularly update consent agreements and privacy policies to align with evolving standards.\n\nEnsuring responsible and compliant PII data gathering practices!\n",
+    "title": "Melhores Práticas para Coleta de Dados PII",
+    "summary": "Diretrizes para coletar informações de Identificação Pessoal (PII) seguindo padrões de privacidade e conformidade.",
+    "content": "\nMelhores Práticas para Coleta de Dados PII:\n\n**Diretrizes Principais:**\n1. Obtenha consentimento explícito das pessoas antes de coletar qualquer dado PII.\n2. Implemente canais seguros e criptografados para a transmissão de dados.\n3. Limite a coleta de dados PII desnecessários e colete apenas informações essenciais.\n4. Atualize regularmente acordos de consentimento e políticas de privacidade para alinhamento com padrões em evolução.\n\nGarantindo práticas de coleta de dados PII responsáveis e em conformidade!\n",
     "hasAttachment": false,
     "createdAt": "2023-07-27T09:00:00Z",
     "categories": [
@@ -257,9 +257,9 @@ const pages = [
 
   {
     "id": "18",
-    "title": "PII Data Transformation Techniques",
-    "summary": "Exploration of techniques for transforming Personally Identifiable Information (PII) data while ensuring anonymity and security.",
-    "content": "\nPII Data Transformation Techniques:\n\n**Methods Overview:**\n1. Tokenization: Replacing sensitive PII with unique tokens for data processing.\n2. Anonymization: Removing personally identifiable details to create anonymous datasets.\n3. Data Masking: Concealing parts of PII to protect sensitive information during analysis.\n4. Differential Privacy: Introducing noise to prevent individual identification while preserving overall data trends.\n\nStrategies for safeguarding PII data during transformation processes!\n",
+    "title": "Técnicas de Transformação de Dados PII",
+    "summary": "Exploração de técnicas para transformar dados de Identificação Pessoal (PII) garantindo anonimato e segurança.",
+    "content": "\nTécnicas de Transformação de Dados PII:\n\n**Visão Geral de Métodos:**\n1. Tokenização: Substituição de dados PII sensíveis por tokens exclusivos para processamento de dados.\n2. Anonimização: Remoção de detalhes de identificação pessoal para criar conjuntos de dados anônimos.\n3. Mascaramento de Dados: Ocultação de partes de dados PII para proteger informações sensíveis durante a análise.\n4. Privacidade Diferencial: Introdução de ruído para evitar a identificação individual enquanto preserva tendências gerais de dados.\n\nEstratégias para proteger dados PII durante processos de transformação!\n",
     "hasAttachment": false,
     "createdAt": "2023-08-01T11:30:00Z",
     "categories": [
@@ -271,9 +271,9 @@ const pages = [
 
   {
     "id": "19",
-    "title": "Team Performance Metrics - Q2 2023",
-    "summary": "A comprehensive overview of team performance metrics for Q2 2023.",
-    "content": "\nTeam Performance Metrics - Q2 2023:\n\n**Metrics Overview:**\n- Project delivery rate: 95%\n- Client satisfaction score: 4.8/5\n- Average response time to client inquiries: 1 hour\n- Team collaboration index: 92%\n\nRecognizing the team's dedication and commitment to excellence in Q2 2023!\n",
+    "title": "Métricas de Desempenho da Equipe - T2 2023",
+    "summary": "Uma visão abrangente das métricas de desempenho da equipe para o T2 2023.",
+    "content": "\nMétricas de Desempenho da Equipe - T2 2023:\n\n**Visão Geral das Métricas:**\n- Taxa de entrega de projetos: 95%\n- Pontuação de satisfação do cliente: 4,8/5\n- Tempo médio de resposta a consultas de clientes: 1 hora\n- Índice de colaboração da equipe: 92%\n\nReconhecendo a dedicação da equipe e o comprometimento com a excelência no T2 2023!\n",
     "hasAttachment": false,
     "createdAt": "2023-08-03T14:30:00Z",
     "categories": [
@@ -285,9 +285,9 @@ const pages = [
 
   {
     "id": "20",
-    "title": "Data Center Security Guidelines",
-    "summary": "Recommendations for ensuring the security of hardware infrastructure in the data center.",
-    "content": "\nWelcome to the \"Data Center Security Guidelines\" page!\n\n**Key Security Measures:**\n1. Implementing access controls and monitoring systems.\n2. Regular security audits and vulnerability assessments.\n3. Disaster recovery planning for hardware protection.\n4. Employee training on data center security protocols.\n\nEnhance the security of our hardware infrastructure with these guidelines!\n",
+    "title": "Diretrizes de Segurança para Data Center",
+    "summary": "Recomendações para garantir a segurança da infraestrutura de hardware no data center.",
+    "content": "\nBem-vindo à página \"Diretrizes de Segurança para Data Center\"!\n\n**Medidas de Segurança Principais:**\n1. Implementação de controles de acesso e sistemas de monitoramento.\n2. Auditorias de segurança regulares e avaliações de vulnerabilidade.\n3. Planejamento de recuperação de desastres para proteção de hardware.\n4. Treinamento de funcionários sobre protocolos de segurança do data center.\n\nAprimore a segurança de nossa infraestrutura de hardware com estas diretrizes!\n",
     "hasAttachment": false,
     "createdAt": "2023-08-07T09:45:00Z",
     "categories": [
@@ -300,9 +300,9 @@ const pages = [
 
   {
     "id": "21",
-    "title": "Secure Storage of PII Data",
-    "summary": "Recommendations for securely storing Personally Identifiable Information (PII) data to prevent unauthorized access and ensure compliance.",
-    "content": "\nSecure Storage of PII Data:\n\n**Key Security Measures:**\n1. Encryption: Implementing end-to-end encryption for stored PII data.\n2. Access Controls: Restricting access to PII based on role and necessity.\n3. Regular Audits: Conducting periodic audits to identify and rectify security vulnerabilities.\n4. Data Residency Compliance: Ensuring PII data storage complies with legal and regulatory requirements.\n\nPrioritizing the security and compliance of stored PII data!\n",
+    "title": "Armazenamento Seguro de Dados PII",
+    "summary": "Recomendações para armazenar com segurança dados de Informações Pessoalmente Identificáveis (PII) para evitar acesso não autorizado e garantir conformidade.",
+    "content": "\nArmazenamento Seguro de Dados PII:\n\n**Medidas de Segurança Principais:**\n1. Criptografia: Implementação de criptografia de ponta a ponta para dados PII armazenados.\n2. Controles de Acesso: Restrição de acesso a PII com base em função e necessidade.\n3. Auditorias Regulares: Realização de auditorias periódicas para identificar e corrigir vulnerabilidades de segurança.\n4. Conformidade com Residência de Dados: Garantir que o armazenamento de dados PII esteja em conformidade com requisitos legais e regulatórios.\n\nPriorizando a segurança e conformidade dos dados PII armazenados!\n",
     "hasAttachment": false,
     "createdAt": "2023-08-12T14:15:00Z",
     "categories": [
@@ -314,9 +314,9 @@ const pages = [
 
   {
     "id": "22",
-    "title": "Employee Leave Policies",
-    "summary": "An informative guide by HR Manager Benjamin Reynolds detailing the company's policies and procedures regarding employee leaves.",
-    "content": "\nEmployee Leave Policies:\n\n**Key Information:**\n1. Types of Leaves: Explaining various leave types, including vacation, sick leave, and parental leave.\n2. Request Process: How to request and obtain approval for different types of leaves.\n3. Leave Balances: Keeping track of leave balances and accruals.\n4. Returning to Work: Guidelines for employees returning to work after a leave period.\n\nEnsuring clarity and fairness in our employee leave policies!\n",
+    "title": "Políticas de Licença de Funcionários",
+    "summary": "Um guia informativo do Gerente de Recursos Humanos Benjamin Reynolds detalhando as políticas e procedimentos da empresa em relação às licenças dos funcionários.",
+    "content": "\nPolíticas de Licença de Funcionários:\n\n**Informações Principais:**\n1. Tipos de Licenças: Explicação de vários tipos de licenças, incluindo férias, licença médica e licença parental.\n2. Processo de Solicitação: Como solicitar e obter aprovação para diferentes tipos de licenças.\n3. Saldo de Licença: Acompanhamento de saldos e acumulações de licença.\n4. Retorno ao Trabalho: Diretrizes para funcionários que retornam ao trabalho após um período de licença.\n\nGarantindo clareza e justiça em nossas políticas de licença para funcionários!\n",
     "hasAttachment": false,
     "createdAt": "2023-08-18T15:15:00Z",
     "categories": [
@@ -328,9 +328,9 @@ const pages = [
 
   {
     "id": "23",
-    "title": "Critical Analysis - Project Concerns",
-    "summary": "A critical analysis by Victoria Mitchell highlighting severe concerns regarding data privacy, biased algorithms, and financial risks associated with the ongoing project.",
-    "content": "\nCritical Analysis - Project Concerns:\n\n**Date:** 2023-07-25\n**Key Concerns:**\n1. **Data Privacy Menace:** The project poses a significant threat to user data privacy, raising serious ethical and legal concerns.\n2. **Biased Algorithmic Decisions:** Uncovering evidence of algorithms incorporating biases that may lead to discriminatory outcomes, a critical ethical issue.\n3. **Financial Risks:** Identifying potential financial risks that could impact the project's sustainability and client relationships.\n\n**Immediate Actions:**\n- Urgent review and revision of data handling practices.\n- Ethical evaluation and adjustment of algorithms to eliminate biases.\n- In-depth financial risk assessment and mitigation planning.\n\nStakeholders, we need immediate action to address these critical concerns and uphold ethical standards in the project!\n",
+    "title": "Análise Crítica - Preocupações com o Projeto *********",
+    "summary": "Uma análise crítica de Victoria Mitchell destacando preocupações graves relacionadas à privacidade de dados, algoritmos enviesados e riscos financeiros associados ao projeto em andamento.",
+    "content": "\nAnálise Crítica - Preocupações do Projeto:\n\n**Data:** 2023-07-25\n**Preocupações Principais:**\n1. **Ameaça à Privacidade de Dados:** O projeto representa uma ameaça significativa à privacidade dos dados do usuário, levantando sérias preocupações éticas e legais.\n2. **Decisões Algorítmicas Enviesadas:** Descoberta de evidências de algoritmos que incorporam viés, o que pode levar a resultados discriminatórios, uma questão ética crítica.\n3. **Riscos Financeiros:** Identificação de riscos financeiros potenciais que poderiam impactar a sustentabilidade do projeto e os relacionamentos com os clientes.\n\n**Ações Imediatas:**\n- Revisão urgente e revisão das práticas de manipulação de dados.\n- Avaliação ética e ajuste dos algoritmos para eliminar viés.\n- Avaliação aprofundada de riscos financeiros e planejamento de mitigação.\n\nPartes interessadas, precisamos de ação imediata para abordar essas preocupações críticas e manter padrões éticos no projeto!\n",
     "hasAttachment": false,
     "createdAt": "2023-08-25T15:30:00Z",
     "categories": [
@@ -342,9 +342,9 @@ const pages = [
 
   {
     "id": "24",
-    "title": "Using NexusLab Research Platform",
-    "summary": "A tutorial on accessing and utilizing the NexusLab Research Platform for development purposes.",
-    "content": "\nWelcome to the \"Using NexusLab Research Platform\" tutorial!\n\n**Getting Started:**\n1. Access NexusLab at [NexusLab](https://nexuslab.wickedintranet).\n2. Log in using your corporate credentials.\n3. Explore project directories and version control.\n4. Run experiments and collaborate on research.\n\nFeel free to unleash the full potential of NexusLab for your development projects!\n",
+    "title": "Utilizando a Plataforma de Pesquisa NexusLab",
+    "summary": "Um tutorial sobre como acessar e utilizar a Plataforma de Pesquisa NexusLab para fins de desenvolvimento.",
+    "content": "\nBem-vindo ao tutorial \"Utilizando a Plataforma de Pesquisa NexusLab\"!\n\n**Primeiros Passos:**\n1. Acesse o NexusLab em [NexusLab](https://nexuslab.wickedcorp.online).\n2. Faça login usando suas credenciais corporativas.\n3. Explore diretórios de projetos e controle de versão.\n4. Execute experimentos e colabore em pesquisas.\n\nSinta-se à vontade para explorar o potencial completo do NexusLab para seus projetos de desenvolvimento!\n",
     "hasAttachment": false,
     "createdAt": "2023-08-25T09:30:00Z",
     "categories": [
@@ -356,9 +356,9 @@ const pages = [
 
   {
     "id": "25",
-    "title": "Legal and Ethical Considerations - Important Message",
-    "summary": "CEO Olivia Anderson addresses potential legal and ethical concerns related to the new federal project and provides guidance on appropriate channels for addressing such concerns.",
-    "content": "\nLegal and Ethical Considerations - Important Message:\n\n**Message:**\nDear Team,\n\nAs we embark on our new federal project, I understand that some of you may have concerns about potential legal and ethical challenges. It's crucial to acknowledge and address these concerns responsibly.\n\n**Guidance:**\n1. If you come across any situation that raises legal or ethical questions, please do not ignore it. Report your concerns through the established channels, such as our internal reporting system or directly to your supervisor.\n2. Our commitment to transparency and integrity is unwavering. We encourage open communication and are dedicated to addressing concerns in a fair and timely manner.\n3. Remember that adherence to legal and ethical standards is a shared responsibility. We are here to support one another and ensure our actions reflect our commitment to ethical business practices.\n\nThank you for your dedication to our company values.\n\nWarm regards,\nOlivia Anderson\nCEO\n",
+    "title": "Considerações Legais e Éticas - Mensagem Importante",
+    "summary": "A CEO Olivia Anderson aborda preocupações legais e éticas potenciais relacionadas ao novo projeto federal e fornece orientações sobre canais apropriados para abordar tais preocupações.",
+    "content": "\nConsiderações Legais e Éticas - Mensagem Importante:\n\n**Mensagem:**\nQuerida Equipe,\n\nAo iniciarmos nosso novo projeto federal, eu entendo que alguns de vocês podem ter preocupações sobre desafios legais e éticos potenciais. É crucial reconhecer e abordar essas preocupações de maneira responsável.\n\n**Orientação:**\n1. Se você se deparar com qualquer situação que levante questões legais ou éticas, por favor, não a ignore. Relate suas preocupações pelos canais estabelecidos, como nosso sistema de relatórios interno ou diretamente ao seu supervisor.\n2. Nosso compromisso com transparência e integridade é inabalável. Incentivamos a comunicação aberta e estamos dedicados a abordar preocupações de maneira justa e oportuna.\n3. Lembre-se de que a aderência a padrões legais e éticos é uma responsabilidade compartilhada. Estamos aqui para nos apoiarmos mutuamente e garantir que nossas ações reflitam nosso compromisso com práticas comerciais éticas.\n\nObrigada pela sua dedicação aos valores de nossa empresa.\n\nAtenciosamente,\nOlivia Anderson\nCEO\n",
     "hasAttachment": false,
     "createdAt": "2023-08-26T11:00:00Z",
     "categories": [
@@ -370,9 +370,9 @@ const pages = [
 
   {
     "id": "26",
-    "title": "Employee Offboarding Notice - Natalie Walker",
-    "summary": "An official announcement regarding the offboarding of Natalie Walker due to serious violations of company policies.",
-    "content": "\nEmployee Offboarding Notice - Natalie Walker:\n\n**Reasons for Offboarding:**\n1. Breaking Non-Disclosure Agreements (NDA): Natalie Walker breached confidentiality agreements, posing a significant risk to company interests.\n2. Menacing Company Culture: Engaging in behavior detrimental to a positive and inclusive work environment.\n3. Insubordination: Failure to adhere to managerial instructions and company guidelines.\n4. Legal Threats: Making threats of legal action against the company.\n\nThis decision follows a thorough investigation and careful consideration of the facts. We wish Natalie Walker the best in her future endeavors.\n\nAttachment: [Offboard_Natalie.pdf](http://{baseUrl}/uploads/67404be69188a4a930213d5987903591.pdf)", 
+    "title": "Aviso de Desligamento de Funcionário - Natalie Walker",
+    "summary": "Um anúncio oficial sobre o desligamento de Natalie Walker devido a sérias violações das políticas da empresa.",
+    "content": "\nAviso de Desligamento de Funcionário - Natalie Walker:\n\n**Motivos para o Desligamento:**\n1. Violação de Acordos de Não Divulgação (NDA): Natalie Walker quebrou acordos de confidencialidade, representando um risco significativo para os interesses da empresa.\n2. Menosprezo à Cultura da Empresa: Engajamento em comportamentos prejudiciais a um ambiente de trabalho positivo e inclusivo.\n3. Insubordinação: Falha em seguir instruções gerenciais e diretrizes da empresa.\n4. Ameaças Legais: Fazer ameaças de ação legal contra a empresa.\n\nEsta decisão segue uma investigação minuciosa e uma consideração cuidadosa dos fatos. Desejamos a Natalie Walker sucesso em seus empreendimentos futuros.\n\nAnexo: [Offboard_Natalie.pdf](http://{baseUrl}/uploads/67404be69188a4a930213d5987903591.pdf)", 
     "hasAttachment": true,
     "flag": "TAC{454368a6cdfa4fa069627495d2da909f691de7398e04bd71879719c256aaf99a}",
     "createdAt": "2023-08-26T10:30:00Z",
@@ -384,9 +384,9 @@ const pages = [
 
   {
     "id": "27",
-    "title": "Employee Layoff Notice - Jonathan Hayes",
-    "summary": "An official announcement regarding the layoff of Jonathan Hayes due to serious violations of company policies.",
-    "content": "\nEmployee Layoff Notice - Jonathan Hayes:\n\n**Reasons for Layoff:**\n1. Breaking Non-Disclosure Agreements (NDA): Jonathan Hayes violated confidentiality agreements, compromising sensitive company information.\n2. Menacing Company Culture: Engaging in actions that undermine a positive and inclusive work environment.\n3. Insubordination: Repeated instances of defiance against managerial instructions and company protocols.\n4. Legal Threats: Making threats of legal action against the company.\n\nThis decision is a result of a comprehensive review of Jonathan Hayes's actions and their impact on the company. Our best wishes go to him for his future endeavors.\n",
+    "title": "Aviso de Demissão de Funcionário - Jonathan Hayes",
+    "summary": "Um anúncio oficial sobre a demissão de Jonathan Hayes devido a sérias violações das políticas da empresa.",
+    "content": "\nAviso de Demissão de Funcionário - Jonathan Hayes:\n\n**Motivos para a Demissão:**\n1. Violação de Acordos de Não Divulgação (NDA): Jonathan Hayes violou acordos de confidencialidade, comprometendo informações sensíveis da empresa.\n2. Menosprezo à Cultura da Empresa: Engajamento em ações que minam um ambiente de trabalho positivo e inclusivo.\n3. Insubordinação: Instâncias repetidas de desafio às instruções gerenciais e protocolos da empresa.\n4. Ameaças Legais: Fazer ameaças de ação legal contra a empresa.\n\nEsta decisão é resultado de uma revisão abrangente das ações de Jonathan Hayes e seu impacto na empresa. Desejamos a ele o melhor em seus empreendimentos futuros.\n",
     "hasAttachment": false,
     "createdAt": "2023-08-26T10:35:00Z",
     "categories": [
@@ -397,9 +397,9 @@ const pages = [
 
   {
     "id": "28",
-    "title": "360-Degree Feedback Review - Employee Spotlight",
-    "summary": "HR Manager Benjamin Reynolds showcases an exemplary employee through a 360-degree feedback review, highlighting contributions and collaborative feedback from peers and managers.",
-    "content": "\n360-Degree Feedback Review - Employee Spotlight:\n\n**Employee Showcase:**\n1. Achievements and Contributions: Recognizing the employee's outstanding work and accomplishments.\n2. Peer Feedback: Insights from colleagues on the employee's collaborative and teamwork skills.\n3. Managerial Perspective: Feedback from the employee's direct supervisor on leadership and performance.\n4. Development Opportunities: Encouraging continuous growth and skill enhancement.\n\nCelebrating excellence and fostering a culture of positive recognition!\n",
+    "title": "Revisão de Feedback 360 Graus - Destaque do Funcionário",
+    "summary": "O Gerente de Recursos Humanos Benjamin Reynolds destaca um funcionário exemplar por meio de uma revisão de feedback 360 graus, destacando contribuições e feedback colaborativo de colegas e gerentes.",
+    "content": "\nRevisão de Feedback 360 Graus - Destaque do Funcionário:\n\n**Destaque do Funcionário:**\n1. Conquistas e Contribuições: Reconhecimento do trabalho excepcional e realizações do funcionário.\n2. Feedback dos Colegas: Insights de colegas sobre as habilidades colaborativas e de trabalho em equipe do funcionário.\n3. Perspectiva Gerencial: Feedback do supervisor direto do funcionário sobre liderança e desempenho.\n4. Oportunidades de Desenvolvimento: Incentivo ao crescimento contínuo e aprimoramento de habilidades.\n\nCelebrando a excelência e promovendo uma cultura de reconhecimento positivo!\n",
     "hasAttachment": false,
     "createdAt": "2023-08-29T10:35:00Z",
     "categories": [
@@ -410,9 +410,9 @@ const pages = [
 
   {
     "id": "29",
-    "title": "Open Note - Concerns and Feedback",
-    "summary": "Alexander Harrison shares open feedback on the company environment and raises concerns about transparency and HR practices.",
-    "content": "\nOpen Note - Concerns and Feedback:\n\n**Dear Team,**\n\nI feel compelled to express some concerns I've been grappling with regarding our work environment. While I value the opportunities and challenges our company provides, I believe there are areas that need attention:\n\n1. **Toxic Company Environment:** The atmosphere seems to be strained, impacting employee morale and collaboration. It's crucial for us to foster a positive workplace culture.\n\n2. **Transparency on Projects:** There appears to be a lack of transparency about ongoing projects. Improved communication about the company's direction and goals would greatly benefit everyone.\n\n3. **Negative Pressure from HR:** There's a sense of unease regarding conversations with ex-colleagues. It's important for HR to foster an environment of open communication rather than discourage it.\n\nI share these thoughts with the intention of contributing to our collective growth. Let's work together to create a workplace **UNDER NEW VALUES AND CULTURE**, where everyone feels heard and valued.\n\nBest regards,\nAlexander Harrison\n",
+    "title": "Nota Aberta - Preocupações e Feedback",
+    "summary": "Alexander Harrison compartilha feedback aberto sobre o ambiente da empresa e levanta preocupações sobre transparência e práticas de RH.",
+    "content": "\nNota Aberta - Preocupações e Feedback:\n\n**Caros Colegas,**\n\nSinto-me compelido a expressar algumas preocupações com as quais tenho lidado em relação ao nosso ambiente de trabalho. Embora valorize as oportunidades e desafios que nossa empresa proporciona, acredito que há áreas que precisam de atenção:\n\n1. **Ambiente Tóxico da Empresa:** O clima parece estar tenso, impactando a moral e a colaboração dos funcionários. É crucial para nós cultivar uma cultura de trabalho positiva.\n\n2. **Transparência em Projetos:** Parece haver falta de transparência sobre projetos em andamento. Uma comunicação aprimorada sobre a direção e metas da empresa beneficiaria a todos.\n\n3. **Pressão Negativa do RH:** Existe uma sensação de desconforto em relação às conversas com ex-colegas. É importante para o RH promover um ambiente de comunicação aberta, em vez de desencorajá-la.\n\nCompartilho esses pensamentos com a intenção de contribuir para o nosso crescimento coletivo. Vamos trabalhar juntos para criar um ambiente de trabalho **SOB NOVOS VALORES E CULTURA**, onde todos se sintam ouvidos e valorizados.\n\nAtenciosamente,\nAlexander Harrison\n",
     "hasAttachment": true,
     "createdAt": "2023-10-25T10:30:00Z",
     "categories": [
