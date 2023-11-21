@@ -1,0 +1,42 @@
+area, img:hover, map:hover { cursor: pointer; }
+
+body {
+    display: block;
+    background-color: #333;
+    padding: 0px;
+    padding: 0 20px 20px 20px;
+    margin: 0;
+    color: #fff;
+}
+
+body img { 
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+    border: solid 3px #fff;
+    border-radius: 3px;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+body div {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    text-align: center;
+    height: 100px;
+}
+
+body h1 {
+    margin: 0;
+    font-family: 'Press Start 2P', cursive;
+
+    animation: mymove;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes mymove {
+    0%   {font-size: 24pt; }
+    50%  {font-size: 30pt; }
+    100% {font-size: 24pt;}
+}
