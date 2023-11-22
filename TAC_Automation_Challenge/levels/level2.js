@@ -90,8 +90,6 @@ level2Routes.get("/:char0?/:char1?/:char2?/:char3?", (req, res) => {
     currentPath = req.params.char2 && currentPath != undefined ? currentPath.paths[req.params.char2] : currentPath
     currentPath = req.params.char3 && currentPath != undefined ? currentPath.paths[req.params.char3] : currentPath
 
-    console.log(currentPath)
-
     if(currentPath && currentPath.flag){
         res.set('Content-Type', 'text/html');
         res.send(Buffer.from(HTML_HEADERS + HTML_FLAG_BODY));

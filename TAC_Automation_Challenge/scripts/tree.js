@@ -4,6 +4,7 @@ import crypto from 'crypto'
 import dicewareWords from './words.js';
 
 const dicewareLen = dicewareWords.length
+
 let contador = 0
 
 function buildTree(level, parent) {
@@ -15,7 +16,7 @@ function buildTree(level, parent) {
         }
         // Generate 4 subpaths
     } else {
-        if(contador++ == 171)
+        if(contador++ == 127)
             parent["flag"] = true
     }
 }
