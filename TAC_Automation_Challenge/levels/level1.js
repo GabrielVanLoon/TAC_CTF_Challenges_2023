@@ -12,7 +12,7 @@ const HTML_HEADERS = `
 <html lang="pt-br">
 <head>
     <meta charset="UTf-8"/>
-    <title>Invasion ~ Level 0</title>
+    <title>Invasion ~ Level 1</title>
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" type="text/css" href="/style.css">
     <style>
