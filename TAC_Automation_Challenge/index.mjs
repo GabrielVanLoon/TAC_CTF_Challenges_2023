@@ -4,6 +4,7 @@ import level0Routes from './levels/level0.js';
 import level1Routes from './levels/level1.js';
 import level2Routes from './levels/level2.js';
 import level3Routes from './levels/level3.js';
+import entryRoutes from './levels/entry.js';
 
 // Env Configurations
 dotenv.config();
@@ -19,6 +20,7 @@ app.use("/level0/", level0Routes)
 app.use("/level1/", level1Routes)
 app.use("/level2/", level2Routes)
 app.use("/level3/", level3Routes)
+app.use("/", entryRoutes)
 
 app.listen(SERVER_PORT, function () {
   console.log(`🚀 Server ready at port ${SERVER_PORT}`);
