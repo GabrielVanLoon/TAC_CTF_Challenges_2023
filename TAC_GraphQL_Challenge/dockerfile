@@ -17,6 +17,7 @@ COPY ./backend ./
 EXPOSE 3000
 
 # Command to run your application
+ENV NODE_ENV=production
 CMD ["npm", "start"]
 
 # docker build -t tac-graphql-challenge .
