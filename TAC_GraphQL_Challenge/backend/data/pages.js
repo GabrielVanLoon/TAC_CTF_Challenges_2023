@@ -322,6 +322,7 @@ const pages = [
     "categories": [
       "3",
       "4",
+      "9"
     ],
     "authorId": 3 // Benjamin - HR Specialist
   },
