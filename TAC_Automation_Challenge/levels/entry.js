@@ -24,7 +24,7 @@ const HTML_START_BODY = `
         <area shape="rect" coords="0,0,500,500"      href="/level0/" alt="path-1" title="path-0">
         <area shape="rect" coords="500,0,1000,500"    href="/level1/" alt="path-2" title="path-1">
         <area shape="rect" coords="0,500,500,1000"    href="/level2/" alt="path-3" title="path-2">
-        <area shape="rect" coords="500,500,1000,1000"  href="/leve3/" alt="path-4" title="path-3">
+        <area shape="rect" coords="500,500,1000,1000"  href="/level3/" alt="path-4" title="path-3">
     </map>
 </body> 
 </html>
