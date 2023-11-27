@@ -30,7 +30,22 @@ explorar para encontrar a *flag*. Dito isso, o usuário deverá utilizar alguma 
 O script a seguir ilustra um exemplo de código que poderia ser utilizado para obter a flag:
 
 ```python
-# @TODO script
+import requests
+
+BASE_URL = 'http://localhost:4000/level1'
+
+for i in range(0,4):
+    for j in range(0,4):
+        for k in range(0,4):
+            for l in range(0,4):
+                for m in range(0,4):
+                    # Request the URL
+                    print(f'Requesting {BASE_URL}/{i}/{j}/{k}/{l}/{m}...')
+                    res = requests.get(f'{BASE_URL}/{i}/{j}/{k}/{l}/{m}')
+                    # Check if response has flag
+                    if res.status_code == 200 and "TAC{" in res.text:
+                        print(res.text)
+                        exit(0)
 ```
 
 Por fim, o usuário conseguiria obter a flag no path `/level1/2/3/0/3/0/`
@@ -48,7 +63,26 @@ Neste desafio os corredores apresentam apenas 4 níveis de profundidade, possuin
 Logo, o *script* anterior terá que ser modificado para navegar e extrair, página por página, as opções de *links* até encontrar a combinação em que a flag se encontra.
 
 ```python
-# @TODO script
+import re
+import requests
+
+BASE_URL = 'http://localhost:4000/level2'
+
+paths = [ "/" ]
+
+while len(paths):
+    # Pega primeiro elemento da lista
+    currentPath = paths.pop(0)
+    # Faz a requisicao e verifica se possui a flag
+    print(f'{BASE_URL}/{currentPath}')
+    res = requests.get(f'{BASE_URL}/{currentPath}')
+    if res.status_code == 200 and "TAC{" in res.text:
+        print(res.text)
+        exit(0)
+    # Senão, extrai os 4 links do HTML
+    matches = re.findall(r"href=\"([a-z]{4})/\"", res.text)
+    for m in matches:
+        paths.append(f'{currentPath}{m}/')
 ```
 
 Por fim, o usuário conseguiria obter a flag no path `/level2/coos/dale/deed/move/`
@@ -100,7 +134,36 @@ Realizando a análise do código, é possível constatar que se trata de um algo
 Logo, precisamos modificar o *script* utilizado no desafio anterior para conseguir calcular e adicionar os dois novos parâmetros e, com isso, obter a flag:
 
 ```python
-# @TODO script
+import re
+import requests
+from hashlib import sha256
+
+BASE_URL = 'http://localhost:4000/level3'
+
+paths = [ "/" ]
+
+while len(paths):
+    # Pega primeiro elemento da lista
+    currentPath = paths.pop(0)
+    # Calculate Proof-of-Work
+    queryCode = 0
+    queryHash = ''
+    nonce = "".join(f'level3/{currentPath}'.split('/'))
+    while True:
+        queryCode += 1
+        queryHash = sha256(f'{queryCode}{nonce}'.encode('utf-8')).hexdigest()
+        if queryHash.startswith("0000"):
+            break
+    # Faz a requisicao e verifica se possui a flag
+    print(f'{BASE_URL}{currentPath}?code={queryCode}&hash={queryHash}')
+    res = requests.get(f'{BASE_URL}{currentPath}?code={queryCode}&hash={queryHash}')
+    if res.status_code == 200 and "TAC{" in res.text:
+        print(res.text)
+        exit(0)
+    # Extrai os 4 links do HTML
+    matches = re.findall(r"clickCallback\('([a-z]{4})'\)", res.text)
+    for m in matches:
+        paths.append(f'{currentPath}{m}/')
 ```
 
 Por fim, o usuário conseguiria obter a flag no path `/level3/fans/dope/pair/boat/?code=11173&hash=00002d99fb3a07ccda026a322e7a3d3803c2e3522c9cdbb6afa1be3fb1396a55`.
